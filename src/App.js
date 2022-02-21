@@ -64,7 +64,6 @@ function App() {
           <button>Calculate</button>
         </div>
       </form>
-      
     </div>
   );
 }
